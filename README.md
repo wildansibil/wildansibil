@@ -1,43 +1,34 @@
-- 👋 Hi, I’m @wildansibil From Teknik Biomedis Unair
-- 🌱 I’m currently learning Machine Learning 
-- 💞️ I’m looking to collaborate on Bangkit Project Capstone Bacth 7
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wildan+Sibil!;+From+Teknik+Biomedis+UNAIR!!!;&color=808080" />
+</h1>
+
+<br/>
 
 
-name: Generate snake animation
+ 🌱I’m an undergraduate, studying in **𝗧𝗲𝗸𝗻𝗶𝗸 𝗕𝗶𝗼𝗺𝗲𝗱𝗶𝘀**  💼 
+<br/>
+🎓 UNIVERSITAS AIRLANGGA🎓
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/835c70d0be1fde25658d1c5dc87f3e69/f082a74ef2dc77b8-0c/s500x750/085d5e7e4688ffaf2fc73da3d281b5e1b35000ad.gifv">
 
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+<br/>
+</div>
 
-  workflow_dispatch:
+📫 Let's connect!
 
-  push:
-    branches:
-    - master
+Email: wildansibil2@gmail.com
+<br/>
+LinkedIn: https://www.linkedin.com/in/wildan-sibil-danillah-safri-4ab73a24b/
+<hr/>
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
+<br/>
 
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
-
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-<!---
-wildansibil/wildansibil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <br>
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
