@@ -17,9 +17,9 @@
 
 📫 Let's connect!
 
-Email: wildansibil2@gmail.com
+Email : wildansibil2@gmail.com
 <br/>
-LinkedIn: https://www.linkedin.com/in/wildan-sibil-danillah-safri-4ab73a24b/
+Discord : WildanSibil#7721
 <hr/>
 
 <br/>
